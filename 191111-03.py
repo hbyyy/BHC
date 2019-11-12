@@ -28,3 +28,6 @@ def solution(array, commands):
     return answer
 
 print(solution(array, commands))
+
+# 전 잘 모르겟어요 ;;; 
+
